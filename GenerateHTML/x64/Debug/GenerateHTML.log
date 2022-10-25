@@ -1,2 +1,8 @@
-﻿  GenerateHTML.c
+﻿  html5.c
+C:\Users\97252\source\repos\GenerateHTML\GenerateHTML\html5.c(38,15): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\97252\source\repos\GenerateHTML\GenerateHTML\html5.c(59,27): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\97252\source\repos\GenerateHTML\GenerateHTML\html5.c(81,26): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\97252\source\repos\GenerateHTML\GenerateHTML\html5.c(84,49): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\97252\source\repos\GenerateHTML\GenerateHTML\html5.c(77,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\97252\source\repos\GenerateHTML\GenerateHTML\html5.c(20): warning C4715: 'SaveIntoFile': not all control paths return a value
   GenerateHTML.vcxproj -> C:\Users\97252\source\repos\GenerateHTML\x64\Debug\GenerateHTML.exe

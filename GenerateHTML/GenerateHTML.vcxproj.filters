@@ -15,8 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GenerateHTML.c">
+    <ClCompile Include="html1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="html2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="html3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="html4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="html5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="test.html">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

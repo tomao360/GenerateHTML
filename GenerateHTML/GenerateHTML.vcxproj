@@ -127,7 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="GenerateHTML.c" />
+    <ClCompile Include="html1.c" />
+    <ClCompile Include="html2.c" />
+    <ClCompile Include="html3.c" />
+    <ClCompile Include="html4.c" />
+    <ClCompile Include="html5.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="test.html" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
